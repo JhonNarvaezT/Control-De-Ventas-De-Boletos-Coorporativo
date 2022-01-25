@@ -1,0 +1,2 @@
+C:\Users\usuarioone\Downloads\Control-de-Vemta-de-Boletos-master\Control-de-Vemta-de-Boletos-master\obj\Debug\Control de Vemta de Boletos.csproj.AssemblyReference.cache
+C:\Users\usuarioone\Downloads\Control-de-Vemta-de-Boletos-master\Control-de-Vemta-de-Boletos-master\obj\Debug\Control de Vemta de Boletos.csproj.SuggestedBindingRedirects.cache
