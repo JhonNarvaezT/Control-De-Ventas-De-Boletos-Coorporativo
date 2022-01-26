@@ -1,0 +1,22 @@
+C:\Users\usuarioone\Documents\Visual Studio 2022\Cap5\Cap5\bin\Debug\Cap5.exe.config
+C:\Users\usuarioone\Documents\Visual Studio 2022\Cap5\Cap5\bin\Debug\Cap5.exe
+C:\Users\usuarioone\Documents\Visual Studio 2022\Cap5\Cap5\bin\Debug\Cap5.pdb
+C:\Users\usuarioone\Documents\Visual Studio 2022\Cap5\Cap5\obj\Debug\Cap5.csproj.AssemblyReference.cache
+C:\Users\usuarioone\Documents\Visual Studio 2022\Cap5\Cap5\obj\Debug\Cap5.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuarioone\Documents\Visual Studio 2022\Cap5\Cap5\obj\Debug\Cap5.FrmCine.resources
+C:\Users\usuarioone\Documents\Visual Studio 2022\Cap5\Cap5\obj\Debug\Cap5.Properties.Resources.resources
+C:\Users\usuarioone\Documents\Visual Studio 2022\Cap5\Cap5\obj\Debug\Cap5.csproj.GenerateResource.cache
+C:\Users\usuarioone\Documents\Visual Studio 2022\Cap5\Cap5\obj\Debug\Cap5.csproj.CoreCompileInputs.cache
+C:\Users\usuarioone\Documents\Visual Studio 2022\Cap5\Cap5\obj\Debug\Cap5.exe
+C:\Users\usuarioone\Documents\Visual Studio 2022\Cap5\Cap5\obj\Debug\Cap5.pdb
+C:\Users\usuarioone\Desktop\Cap5\Cap5\bin\Debug\Cap5.exe.config
+C:\Users\usuarioone\Desktop\Cap5\Cap5\bin\Debug\Cap5.exe
+C:\Users\usuarioone\Desktop\Cap5\Cap5\bin\Debug\Cap5.pdb
+C:\Users\usuarioone\Desktop\Cap5\Cap5\obj\Debug\Cap5.csproj.AssemblyReference.cache
+C:\Users\usuarioone\Desktop\Cap5\Cap5\obj\Debug\Cap5.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuarioone\Desktop\Cap5\Cap5\obj\Debug\Cap5.FrmCine.resources
+C:\Users\usuarioone\Desktop\Cap5\Cap5\obj\Debug\Cap5.Properties.Resources.resources
+C:\Users\usuarioone\Desktop\Cap5\Cap5\obj\Debug\Cap5.csproj.GenerateResource.cache
+C:\Users\usuarioone\Desktop\Cap5\Cap5\obj\Debug\Cap5.csproj.CoreCompileInputs.cache
+C:\Users\usuarioone\Desktop\Cap5\Cap5\obj\Debug\Cap5.exe
+C:\Users\usuarioone\Desktop\Cap5\Cap5\obj\Debug\Cap5.pdb
